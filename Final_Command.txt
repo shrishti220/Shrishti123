@@ -1,0 +1,98 @@
+    1  pwd
+    2  cd /d
+    3  ls
+    4  clear
+    5  mkdir Shrishti_Git
+    6  chmod 777 Shrishti_Git
+    7  ls
+    8  clear
+    9  chrod 777 Shrishti_Git
+   10  clear
+   11  ls
+   12  cd Shrishti_Git
+   13  clear
+   14  pwd
+   15  clear
+   16  git init
+   17  git status
+   18  clear
+   19  vim Shrishti.txt
+   20  clear
+   21  ls
+   22  cat Shrishti.txt
+   23  clear
+   24  git add *
+   25  clear
+   26  ls
+   27  clear
+   28  git status
+   29  clear
+   30  git clone https://github.com/shrishti220/testing.git
+   31  pwd
+   32  ls
+   33  git clone https://github.com/shrishti220/shrishti220.git
+   34  clear
+   35  git remote add https://github.com/shrishti220/testing.git
+   36  git remote add origin https://github.com/shrishti220/testing.git
+   37  git config
+   38  git --config
+   39  git --help
+   40  clear
+   41  ls
+   42  git push  -u origin main
+   43  clear
+   44  git status
+   45  git commit -m "First Attempt"
+   46  git status
+   47  clear
+   48  git push  -u origin main
+   49  git push  -u origin main
+   50  git config --global user.email "shristivishwa16@gmail.com"
+   51  git config --global user.name "shrishti220"
+   52  git config --global user.password "shrishti626464"
+   53  clear
+   54  history >> commands_list.txt
+   55  history 
+   56  history >> commands_list.txt clear
+   57  clear
+   58  git push  -u origin main
+   59  git remote add origin https://github.com/shrishti220/Shrishti123.git
+   60  pwd
+   61  pwd
+   62  clear
+   63  git add remove origin
+   64  git add rm origin
+   65  git remote rm origin
+   66  git remote add origin https://github.com/shrishti220/Shrishti123.git
+   67  git push  -u origin main
+   68  cd ..
+   69  mkdir Shrishti456
+   70  cd shrishti456
+   71  chmod 777 shrishti 
+   72  chmod 777 shrishti456 
+   73  chmod 777 Shrishti456
+   74  cd ..
+   75  chmod 777 Shrishti456
+   76  cd shrishti456
+   77  clear
+   78  pwd
+   79  ls
+   80  cat test.txt
+   81  clear
+   82  git init
+   83  git add *
+   84  clear
+   85  git status
+   86  git commit -m "first commit"
+   87  git branch -M main
+   88  git branch
+   89  git remote add origin https://github.com/shrishti220/Shrishti123.git
+   90  git push -u origin main
+   91  pwd
+   92  git status
+   93  git push -u origin main
+   94  git push -u origin main
+   95  clear
+   96  history 
+   97  clear
+   98  history >> Final_Command.txt
